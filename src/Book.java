@@ -37,6 +37,7 @@ public class Book {
         return this.title + " " +
                 this.pages + " " +
                 this.releaseYear + " " +;
+        }
 
     }
 

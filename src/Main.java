@@ -9,7 +9,7 @@ public class Main {
         Book book3 = new Book();
 
         //Pilnas konstruktorius//
-        Book book1 = new Book();
+
         book1.setTitle("Kaktusas ar pienė");
         book1.setPages(270);
         book1.setReleaseYear(2021);
